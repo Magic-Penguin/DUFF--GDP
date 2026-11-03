@@ -13,5 +13,7 @@ Our team repo for the Game Development Pipeline to be updated throughout the dur
 ### Evidence to return:
 ### Personal repositories: 
  - [An Nguyen](https://github.com/anguyen0344/CS-110)
+
+ - [David](https://github.com/Magic-Penguin/10B.DUFF-INC.)
 ### Debrief time:
 
